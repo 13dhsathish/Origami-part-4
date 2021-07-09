@@ -1,0 +1,45 @@
+h1 {
+    color: #fff;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+
+}
+body{
+    background-color:#ffff;
+}
+.Header{
+    margin: 0px;
+    background-color:rgb(29, 4, 58);
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    display: flex;
+}
+.Grid{
+   border: 2px solid #dc3359;
+   border-radius: 50px;
+}
+p, h2{
+    text-align: center;
+}
+.Item{
+    
+    background-color: #db0e0e;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ece90b;
+}
